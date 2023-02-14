@@ -72,5 +72,5 @@ repositories {
 dependencies {
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'  // From node_modules
-    implementation 'com.google.android.play:review:2.0.1'
+    implementation 'com.google.android.play:review:2.0.0'
 }
